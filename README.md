@@ -2,6 +2,8 @@
 
 A hyper plugin that fades the scrollbar when not in use, made to fit well into MacOS.
 
+WARNING: Hacky fork - created for my purpose, needs additional work.
+
 ## Installation
 
 ```sh
