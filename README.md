@@ -1,4 +1,4 @@
-# Hyper Fading Scrollbar
+# Mitti Fading Scrollbar (fork of Hyper Fading Scrollbar)
 
 [![NPM version](https://img.shields.io/npm/v/hyper-fading-scrollbar.svg)](https://www.npmjs.com/hyper-fading-scrollbar) [![NPM download count](https://img.shields.io/npm/dm/hyper-fading-scrollbar.svg)](https://www.npmjs.com/hyper-fading-scrollbar)
 
